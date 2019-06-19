@@ -1,0 +1,13 @@
+{
+  "name": "The Game of Souls - a story bible",
+  "short_name": "The Game of Souls Bible",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "The story bible for A Game of Souls Series by AJ Hunter.",
+  "icons": [{
+    "src": "images/agos192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
