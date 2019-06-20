@@ -1,0 +1,25 @@
+{
+  "name": "tgos-lorebook",
+  "version": "1.0.0",
+  "description": "The Game of Souls World Lore Story Bible",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matalina/tgos-story-bible.git"
+  },
+  "author": "Alicia Wilkerson <alicia@akddev.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matalina/tgos-story-bible/issues"
+  },
+  "homepage": "https://github.com/matalina/tgos-story-bible#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.6.0",
+    "postcss-import": "^12.0.1",
+    "postcss-loader": "^3.0.0",
+    "tailwindcss": "^1.0.4"
+  }
+}
