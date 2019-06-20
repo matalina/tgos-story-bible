@@ -1,4 +1,7 @@
 module.exports = {
+  postcss: {
+    plugins: [require('tailwindcss')('./tailwind.js'), require('autoprefixer')],
+  },
   title: "The Game of Souls",
   description: "a story bible",
   head: [
@@ -22,6 +25,8 @@ module.exports = {
   },
   themeConfig: {
     logo: '/images/agos192.png',
+    search: true,
+    searchMaxSuggestions: 10,
     nav: [
       { text: 'Characters', link:'/characters/' },
       { text: 'Locations', link:'/locations/' },
