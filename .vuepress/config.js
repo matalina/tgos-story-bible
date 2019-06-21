@@ -2,13 +2,27 @@ module.exports = {
   postcss: {
     plugins: [require('tailwindcss')('./tailwind.js'), require('autoprefixer')],
   },
+  plugins: [
+    '@vuepress/active-header-links',
+    '@vuepress/search',
+    '@vuepress/nprogress',
+    '@vuepress/back-to-top',
+    '@vuepress/last-updated',
+    '@vuepress/pwa',
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': '' // UA-00000000-0
+      }
+    ]
+  ],
   title: "The Game of Souls",
   description: "a story bible",
   head: [
     ['link', {rel: 'manifest', href: '/manifest.json'}],
     ['link', {rel:'icon', href: '/images/agos192.png'}]
   ],
-  //serviceWorker: true,
+  serviceWorker: true,
   markdown: {
     toc: {
       includeLevel: [2,3,4]
