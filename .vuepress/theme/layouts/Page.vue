@@ -8,7 +8,7 @@
 <script>
 import Sidebar from '../components/Sidebar';
 export default {
-  name: 'Lore',
+  name: 'Page',
   components: { Sidebar },
   data() {
     return {

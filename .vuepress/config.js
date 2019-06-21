@@ -8,7 +8,7 @@ module.exports = {
     '@vuepress/nprogress',
     '@vuepress/back-to-top',
     '@vuepress/last-updated',
-    '@vuepress/pwa',
+    //'@vuepress/pwa',
     [
       '@vuepress/google-analytics',
       {
@@ -22,7 +22,7 @@ module.exports = {
     ['link', {rel: 'manifest', href: '/manifest.json'}],
     ['link', {rel:'icon', href: '/images/agos192.png'}]
   ],
-  serviceWorker: true,
+  //serviceWorker: true,
   markdown: {
     toc: {
       includeLevel: [2,3,4]
@@ -49,22 +49,26 @@ module.exports = {
     ],
     sidebar: {
       '/the-story/': [
-        ''
+        {link:'', text: 'The Story'},
+        {link:'000-the-first-hunt', text: 'The First Hunt'},
       ],
       '/characters/': [
-        '',
-        'nox-setanta',
-        'alex-kennedy'
+        {link: '', text: 'Characters'},
+        {link: 'nox-setanta', text: 'Nox Sétanta'},
+        {link: 'alex-kennedy', text: 'Alex Kennedy'}
       ],
       '/locations/': [
-        '',
-        'new-york-city',
-        'boulder',
-        'las-vegas',
-        'dangdburgh'
+        {link:'', text: 'Locations'},
+        {link:'new-york-city', text: 'New York City, New York'},
+        {link:'boulder', text: 'Boulder, Colarado'},
+        {link:'las-vegas', text: 'Las Vegas, Nevada'},
+        {link:'dangdburgh', text: 'Dangdburg, Florida'}
+      ],
+      '/places/': [
+        {link:'', text: 'Places'},
       ],
       '/lore/': [
-        '',
+        {link:'', text: 'Lore'},
       ],
     }
   }

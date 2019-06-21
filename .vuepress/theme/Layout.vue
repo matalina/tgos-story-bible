@@ -1,21 +1,27 @@
 <template>
   <div>
     <Header/>
-    <component :is="layout"></component>
+    <component :is="layout" class="mb-16"></component>
     <Footer/>
   </div>
 </template>
 
 <script>
 import Home from './layouts/Home';
+import Page from './layouts/Page';
+import Character from './layouts/Character';
+import Location from './layouts/Location';
+import Lore from './layouts/Lore';
+import Book from './layouts/Book';
+import Scene from './layouts/Scene';
 import Header from './components/Header';
 import Footer from './components/Footer';
 
 export default {
-  components: { Home, Header, Footer },
+  components: { Home, Page, Header, Footer, Character, Location, Lore, Book, Scene },
   computed: {
     layout() {
-      return this.$page.frontmatter.layout || 'Home'
+      return this.$page.frontmatter.type || 'Home'
     }
   },
 }

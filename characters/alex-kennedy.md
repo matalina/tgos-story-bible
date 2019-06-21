@@ -1,6 +1,6 @@
 ---
 title: Alex Kennedy  
-type: character
+type: Character
 role: Love Interest (LI)  
 tags: character, love interest, human, telepath, dreamwalker  
 ---

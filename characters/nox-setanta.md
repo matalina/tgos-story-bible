@@ -1,6 +1,6 @@
 ---
 title: Nox Sétanta
-type: character
+type: Character
 role: main character (MC)
 tags: character, main character, venatori, minorem, ascendant, cesari, magnus
 ---
