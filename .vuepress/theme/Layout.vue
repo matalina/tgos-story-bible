@@ -1,5 +1,5 @@
 <template>
-  <div class="container lg:container-lg mx-auto bg-gray-100">
+  <div>
     <Header/>
     <component :is="layout"></component>
     <Footer/>

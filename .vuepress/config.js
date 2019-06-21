@@ -42,11 +42,15 @@ module.exports = {
     search: true,
     searchMaxSuggestions: 10,
     nav: [
+      { text: 'The Story', link: '/the-story/'},
       { text: 'Characters', link:'/characters/' },
       { text: 'Locations', link:'/locations/' },
       { text: 'World Lore', link:'/lore/' },
     ],
     sidebar: {
+      '/the-story/': [
+        ''
+      ],
       '/characters/': [
         '',
         'nox-setanta',
