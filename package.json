@@ -29,5 +29,8 @@
     "postcss-loader": "^3.0.0",
     "tailwindcss": "^1.0.4",
     "vuepress": "^1.0.*"
+  },
+  "dependencies": {
+    "vuepress-plugin-container": "^2.0.1"
   }
 }

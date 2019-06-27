@@ -1,6 +1,6 @@
 <template>
   <main class="flex">
-    <Sidebar class="flex-intial"/>
+    <Sidebar class="flex-intial" />
     <Content class="flex-auto"/>
   </main>
 </template>

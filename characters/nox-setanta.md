@@ -275,7 +275,9 @@ At sixteen while trying to fit in Nox found himself with a bunch of guys (his ro
 
 Just before his seventeenth birthday Adrian told Nox that he couldn't help him anymore.  And while they remained friends, the therapy and sexual training was at its end.
 
+::: spoiler the-first-hunt
 ### The First Hunt
+:::
 
 ### The Third Ascendant Arc
 

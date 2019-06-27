@@ -3,6 +3,7 @@ module.exports = {
     plugins: [require('tailwindcss')('./tailwind.js'), require('autoprefixer')],
   },
   plugins: [
+    // vuepress-plugin-copyright (maybe?)
     '@vuepress/active-header-links',
     '@vuepress/search',
     '@vuepress/nprogress',
@@ -14,7 +15,14 @@ module.exports = {
       {
         'ga': '' // UA-00000000-0
       }
-    ]
+    ],
+    ['container', {
+      type: 'spoiler',
+      defaultTitle: '',
+      before: info => `<div class="spoiler ${info}">`,
+      after: `</div>`,
+      marker: ':'
+    }]
   ],
   title: "The Game of Souls",
   description: "a story bible",
