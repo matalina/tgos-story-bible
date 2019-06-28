@@ -14,6 +14,9 @@
     </router-link>
     <Menu class="flex-1 m-2"/>
     <Search class="flex-initial m-2"/>
+    <router-link to="/help/markdown">
+      <i class="fa fa-question fa-fw"></i>
+    </router-link>
   </header>
 
 </template>

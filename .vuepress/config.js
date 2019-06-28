@@ -16,36 +16,42 @@ module.exports = {
         'ga': '' // UA-00000000-0
       }
     ],
-    ['container', {
-      type: 'spoiler',
-      defaultTitle: '',
-      before: info => `<div class="spoiler ${info}">`,
-      after: `</div>`,
-      marker: ':'
-    }]
   ],
   title: "The Game of Souls",
   description: "a story bible",
   head: [
     ['link', {rel: 'manifest', href: '/manifest.json'}],
-    ['link', {rel:'icon', href: '/images/agos192.png'}]
+    ['link', {rel:'icon', href: '/images/agos192.png'}],
+    ['script', {src: 'https://kit.fontawesome.com/4c7e105b7b.js'}],
   ],
   //serviceWorker: true,
   markdown: {
     toc: {
       includeLevel: [2,3,4]
     },
-    config: md => {
+    plugins: {
+      'markdown-it-mark': {},
+      'markdown-it-ins': {},
+      'markdown-it-attrs': {},
+      'markdown-it-small': {},
+      'markdown-it-fontawesome': {},
+    },
+    extendMarkdown: md => {
       md.set({
         html: true,
         xhtmlOut: true,
         breaks: true,
         linkify: true
-      })
-      //md.use(require('markdown-it-xxx'));
+      });
+      md.use(require('markdown-it-mark'))
+        .use(require('markdown-it-ins'))
+        .use(require('markdown-it-attrs'))
+        .use(require('markdown-it-small'))
+        .use(require('markdown-it-fontawesome'));
     }
   },
   themeConfig: {
+    base: '/the-game-of-souls-wiki/',
     logo: '/images/agos192.png',
     search: true,
     searchMaxSuggestions: 10,
@@ -77,7 +83,14 @@ module.exports = {
       ],
       '/lore/': [
         {link:'', text: 'Lore'},
+        {link:'ascendant', text: 'Ascendant'},
+        {link:'prophecy', text: 'Prophecy'},
+        {link:'umbra', text: 'The Umbra'},
       ],
+      '/help/': [
+        {link:'', text: 'Help'},
+        {link:'markdown', text: 'Markdown Available'}
+      ]
     }
   }
 };

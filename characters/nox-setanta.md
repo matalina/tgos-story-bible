@@ -6,10 +6,10 @@ tags: character, main character, venatori, minorem, ascendant, cesari, magnus
 ---
 # Nox Sétanta
 
-aka The Third Ascendant, The Bringer of Darkness, The King of New York, Mors Praetor
+aka _[The Third Ascendant, The Bringer of Darkness, The King of New York,]_{.spoiler} Mors Praetor
 
 **Born:** June 21, 1992 @ 12:03am in Boulder, CO  
-**Race:** Minorem (half human/half venatori) _[Ascendant]_  
+**Race:** Minorem (half human/half venatori) _[Ascendant]_{.spoiler}  
 
 ## Family
 
@@ -26,23 +26,23 @@ aka The Third Ascendant, The Bringer of Darkness, The King of New York, Mors Pra
 - Adam Viddens (half brother, father's side)
 - Marius Viddens (half brother, father's side)  
 - Tobias Viddens (half brother, father's side)
-- Lucy Sétanta (twin sister) _[still alive]_
+- _[Lucy Sétanta']_{.spoiler} (twin sister) _[still alive]_{.spoiler}
 - Nicholas Hampton (half brother, father's side)
 - Laker Rivers (half brother, mother's side)
 - Rider Rivers (half brother, mother's side)
 
 **Children:**  
 
-- _[Cassidy Dononvan]_
-- _[Hunter Sétanta]_
-- Drake Pierce (adopted)
-- Laker Rivers (guardian)
-- Rider Rivers (guardian)
-- Faelen Taylor (adopted)
-- Matthew Davenport (guardian)
-- Morana Balrog (guardian)
-- _[Devon Kennedy]_
-- _[Skylar Kennedy]_
+- _[Cassidy Dononvan]_{.spoiler}
+- _[Hunter Sétanta]_{.spoiler}
+- _[Drake Pierce (adopted)_{.spoiler}
+- _[Laker Rivers (guardian)_{.spoiler}
+- _[Rider Rivers (guardian)_{.spoiler}
+- _[Faelen Taylor (adopted)_{.spoiler}
+- _[Matthew Davenport (guardian)_{.spoiler}
+- _[Quinn Stephens (adopted)]_{.spoiler}
+- _[Devon Kennedy]_{.spoiler}
+- _[Skylar Kennedy]_{.spoiler}
 
 ## Description
 
@@ -52,12 +52,12 @@ aka The Third Ascendant, The Bringer of Darkness, The King of New York, Mors Pra
 - sees patterns/solves puzzles
 - intrepid healing but prone to sickness
 - superhuman senses but no superhuman reflexes/strength
-- _[strongest living Venatori Magnus in generations - eclipses highest rated in any element]_
-- _[stronger than Venatori sense of smell due to being a theriantrophy carrier (wolf strain)]_
-- _[at birth infused with umbra(order) to become the third ascendant]_
-- _[read the language of the umbra]_
-- _[use and create rune stones]_
-- _[strong connection with the umbra resulting in strange magic around him]_
+- _[strongest living Venatori Magnus in generations - eclipses highest rated in any element]_{.spoiler}
+- _[stronger than Venatori sense of smell due to being a theriantrophy carrier (wolf strain)]_{.spoiler}
+- _[at birth infused with umbra(order) to become the third ascendant]_{.spoiler}
+- _[read the language of the umbra]_{.spoiler}
+- _[use and create rune stones]_{.spoiler}
+- _[strong connection with the umbra resulting in strange magic around him]_{.spoiler}
 
 ### Physical
 
@@ -148,7 +148,7 @@ See [Pintrest Board](https://www.pinterest.com/ajsvoices/all-things-nox/)
 4:30 yoga/workout/morning run
 5:45 shower  
 6am breakfast  
-_[11 - 2 lunch with Alex]_
+_[11 - 2 lunch with Alex]_{.spoiler}
 11:30 - 12:30 lunch  
 6pm evening run  
 7:30pm dinner  
@@ -215,19 +215,19 @@ Nox’s mother, Leanne Sétanta, was a human Venatori hunter, her parents and tw
 
 Kai Viddens is a Venatori hunter. He has had no wives but many female companions. He has 6 children, 5 of which he raised. Kai found out about Nox when Nox was 18 at his Ad Aetatem. He met Leanne when he was passing through Colorado in 1991 chasing a rogue vampire. Kai was unaware she was human and later became with child. Leanne was one of the rare women to survive the birth of Minorem.
 
-_[Nox was born one of two twins.  His sister Lucy was 'removed' from the pattern in her hospital crib.  A dragon was sent to kill the netherborn, but instead a deal was struck with an agent of chaos (Brandon Holt), and Lucy was taken, and Nox left alive.  But Leanne's memory of her daughter was removed as well as her love of her son.]_
+_[Nox was born one of two twins.  His sister Lucy was 'removed' from the pattern in her hospital crib.  A dragon was sent to kill the netherborn, but instead a deal was struck with an agent of chaos (Brandon Holt), and Lucy was taken, and Nox left alive.  But Leanne's memory of her daughter was removed as well as her love of her son.]_{.spoiler}
 
 At the age of 5 Nox started showing signs of being a Magnus like his father by starting a fire after his mother shook him for making a mess.  She spit on him and called him a monster before throwing a fire extinguisher at his head and sending Nox to bed. His mother hurriedly dumped Nox on the Venatori for training. He was picked up at the airport by Dorian Vega. At the time of his admittance Nox was designated NNI5 and started his official training early. Garrett Spencer was assigned to be his fire-starter instructor.  Nox didn't hear from his mother again until he was 18.
 
-_[When Nox comes into power he also begins drawing his twin flame into his dreams where they build towers, and destroy them together.  Nox always dreams the same thing every night - he's a small boy, dressed in a green flannel monster suit with red feet.  The room is stark white, the colored blocks are the only color other than Nox himself, and a painting on the wall (a window into his true dreamscape) and it whispers MONSTER at every corner, even the blocks spell monster.  Nox builds towers and stomps them becoming the monster they whisper. He and the boy make a connection.]_
+_[When Nox comes into power he also begins drawing his twin flame into his dreams where they build towers, and destroy them together.  Nox always dreams the same thing every night - he's a small boy, dressed in a green flannel monster suit with red feet.  The room is stark white, the colored blocks are the only color other than Nox himself, and a painting on the wall (a window into his true dreamscape) and it whispers MONSTER at every corner, even the blocks spell monster.  Nox builds towers and stomps them becoming the monster they whisper. He and the boy make a connection.]_{.spoiler}
 
 Upon arrival at the Apex Unlimited Building in New York City, Nox was tested in all elements. He was found to be capable of bending all 4 elements – he was designated NNIAeTA5.  His first roommate Aaron Woolbright another firestarter steals Nox's favorite toy Mushu, and in an emotional attempt to get him back Nox accidentally starts a fire.  In Aaron's fear and haste Mushu is tossed aside and captured by the flames.  Only Dorian was able to console Nox.
 
-_[Garrett Spencer mentally abused Nox on the dream plane in order to teach him to control the fire within. In one instance Nox's twin flame joins him and Garrett turns his ire on the boy, Nox grasps fire willingly to defend the boy.  Nox and his twin flame vow to protect one another's dreams from the bad man.  The twin flames power so strong it eradicates all memories of him, past, present and future dreams are boxed away hidden where no one will ever look.  Meanwhile the twin flame only forgot the bad man and Nox's nightmare.]_
+_[Garrett Spencer mentally abused Nox on the dream plane in order to teach him to control the fire within. In one instance Nox's twin flame joins him and Garrett turns his ire on the boy, Nox grasps fire willingly to defend the boy.  Nox and his twin flame vow to protect one another's dreams from the bad man.  The twin flames power so strong it eradicates all memories of him, past, present and future dreams are boxed away hidden where no one will ever look.  Meanwhile the twin flame only forgot the bad man and Nox's nightmare.]_{.spoiler}
 
-At the age of 6 upon final assessment as a fire-starter Nox created a fire that caught on Garrett’s pants and worsened before Nox put it out. This incident was deemed an accident and Nox was held in observation with Dr. Margo Silverman for 3 months and assigned a new mentor, Dae’lin Rivera. _[This was not an accident, both Nox and Garrett knew this.  Nox purposefully lit Garrett on fire because the man was going to hurt him one last time and Nox had enough.]_
+At the age of 6 upon final assessment as a fire-starter Nox created a fire that caught on Garrett’s pants and worsened before Nox put it out. This incident was deemed an accident and Nox was held in observation with Dr. Margo Silverman for 3 months and assigned a new mentor, Dae’lin Rivera. _[This was not an accident, both Nox and Garrett knew this.  Nox purposefully lit Garrett on fire because the man was going to hurt him one last time and Nox had enough.]_{.spoiler}
 
-Nox begins having nightmares every night sometimes waking with his back bloody and broken.  Every morning Nox sketches his nightmare as part of his therapy. Sometimes other things make those same pages from his dreams, but not often. _[After Garrett can no longer teach Nox, he assigns a 'nightmare' to him from the demon Morpheus who then feeds the boys fear to its master.  The night mares happen regardless of time, (as long as it's still dark out) and always wakes Nox up at 4am regardless of when the demon takes him into it.  Sleeping during the day only results in worse nightmares the next time Nox is caught.  The dreams flay Nox in the real world leaving torturous scars across his back.]_
+Nox begins having nightmares every night sometimes waking with his back bloody and broken.  Every morning Nox sketches his nightmare as part of his therapy. Sometimes other things make those same pages from his dreams, but not often. _[After Garrett can no longer teach Nox, he assigns a 'nightmare' to him from the demon Morpheus who then feeds the boys fear to its master.  The night mares happen regardless of time, (as long as it's still dark out) and always wakes Nox up at 4am regardless of when the demon takes him into it.  Sleeping during the day only results in worse nightmares the next time Nox is caught.  The dreams flay Nox in the real world leaving torturous scars across his back.]_{.spoiler}
 
 Nox spent another year in fire-starter training.
 
@@ -251,11 +251,11 @@ Nox becomes an excellent cook by age 12, and was well versed in dances by the sa
 
 The October after his twelvth birthday Nox was jumping off the AU building trying to releive his stresses, and control something in his life when he decided to just jump and let it end there, but half way through the fall Nox changed his mind a pair of blue eyes flashing in front of his eyes and he saved himself most of the damage only resulting in a broken arm from the fall.  Margo did not tell anyone what had happened, Nox was seeing a therapist, no need for the attempt to go on his school record.
 
-_[Nox and his twin flame's relationship in the dream dramatically changes as both boys are attracted to one another.  They share their first kiss.]_
+_[Nox and his twin flame's relationship in the dream dramatically changes as both boys are attracted to one another.  They share their first kiss.]_{.spoiler}
 
 At the age of 13 Nox had his first crush – on another boy. After one particular swim meet win Nox kissed Dylan, only to receive a beat down in return.
 
-_[Nox and his twin flame quickly move from kissing to making out, to full on penetrative sex in the dream.  Nox is falling hard and fast for this boy but can never remember.]_
+_[Nox and his twin flame quickly move from kissing to making out, to full on penetrative sex in the dream.  Nox is falling hard and fast for this boy but can never remember.]_{.spoiler}
 
 Shortly there after, while Nox was watching his crush he was discovered by a girl a few years older, Madison Pratt. She was Nox’s first. Nox explores his sexuality almost entirely out of the compound with the occasional dalliance with fellow members of The Academy.  Once getting caught just before the act with Nicholas Hampton, who later turns out to be his half brother.
 
@@ -263,21 +263,19 @@ Nox's reputation with the girls at the Academy was one that spoke to how easy he
 
 Six months after Madison, Nox snuck out without his human friends and found himself in a gay bar where he let a brusk man take him in the back store room and 'fuck' him even though the man claimed to be straight.  This was set the standard for Nox's typical male hookup, while his females continued to be one night stands.
 
-The October following his 14th birthday Nox found a way to get Nepenthe - a drug that works on Venatori metabolism quickly without dying out quickly.  He only did it once. _[Nox's Twin flame found him higher than a kite and they worked through the issue of Nox's desire and making a promise he'd later not remember, but Nox never touched it again.]_
+The October following his 14th birthday Nox found a way to get Nepenthe - a drug that works on Venatori metabolism quickly without dying out quickly.  He only did it once. _[Nox's Twin flame found him higher than a kite and they worked through the issue of Nox's desire and making a promise he'd later not remember, but Nox never touched it again.]_{.spoiler}
 
 Mia, Sage and Nox continued to sneak out at night doing things their parents wouldn't like.  They found themselves with Jason Hill who was several years older than they were.  He took them places they couldn't normally go, most notably parties where there was drinking, sex and drugs.  Sage found his kink in watching.  Mia and Jace enjoyed group sex, and Nox found himself a submissive to agressive men or sleeping with whatever girl would have him.  Nox was using sex as a drug to dull his lonliness.
 
 At one party Nox was found by Adrian Sheridan, a werewolf who was also a dom and a sex therapist.  He had been watching Nox the whole night and wanted to help him.  He taught Nox over the next few years how to be submissive, how to take initiative, and how to not be a doormat while losing the power struggle.  
 
-_[During one dream with his twin flame Nox promises to get a tattoo of his lover/friend though he doesn't know his name, or what he looks like he promises - though Nox never remembers.  Nox sometimes calls his friend his Mushu.]_
+_[During one dream with his twin flame Nox promises to get a tattoo of his lover/friend though he doesn't know his name, or what he looks like he promises - though Nox never remembers.  Nox sometimes calls his friend his Mushu.]_{.spoiler}
 
 At sixteen while trying to fit in Nox found himself with a bunch of guys (his roommates included) getting drunk, daring one another to do stupid things. They dared Nox to get a tattoo. Being drunk was the only thing that allowed him to surpass his fear of needles.  Nox gets the tattoo of Mushu at the back of his neck.
 
 Just before his seventeenth birthday Adrian told Nox that he couldn't help him anymore.  And while they remained friends, the therapy and sexual training was at its end.
 
-::: spoiler the-first-hunt
 ### The First Hunt
-:::
 
 ### The Third Ascendant Arc
 
